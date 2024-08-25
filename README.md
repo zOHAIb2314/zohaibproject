@@ -1,2 +1,2 @@
 # zohaibproject
-this my first Git Repository
+This my first Git Repository
